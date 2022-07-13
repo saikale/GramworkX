@@ -142,11 +142,16 @@ Now converting polynomial to third degree polynomial for better accuracy by just
 
 Accuracy remains same 87% but mean changes to 82%
 
+CONCLUSION:
+
 Accuracy using Linear Regression is : 79%
 
 Accuracy using Polynomial Regression is : 87%
 
 Hence Polynomial is preferred than Linear Regression Model.
+
+From the scatter plot,The non-smokers have charges ranging from 0-38k(approx) and smokers have spending of about 12k-above 60k.
+
 
 
 
